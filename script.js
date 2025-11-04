@@ -198,7 +198,7 @@ chatCloseButton?.addEventListener('click', () => {
 });
 
 chatCTAButton?.addEventListener('click', () => {
-  window.open('https://wa.me/5588996514258', '_blank');
+  window.open('https://wa.me/5581986194158', '_blank');
 });
 
 const openModal = (id) => {
